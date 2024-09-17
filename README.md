@@ -3,7 +3,7 @@
 [![Analyze and test all][analyze_and_test_badge]][analyze_and_test_link]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 
-A set of containers that make life easier.
+A set of containers that simplify your layout: drop-in replacements for Row, Column, Container, and AnimatedContainer with customizable spacing between children.
 
 <img src="https://github.com/nesquikm/the_containers/raw/main/images/the_containers.gif" width="350" alt="TheContainers">
 

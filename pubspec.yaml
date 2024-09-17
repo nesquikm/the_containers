@@ -1,6 +1,6 @@
 name: the_containers
-description: "A set of containers that make life easier."
-version: 0.0.1
+description: "A set of containers that simplify your layout: drop-in replacements for Row, Column, Container, and AnimatedContainer with customizable spacing between children."
+version: 0.0.2
 homepage: https://github.com/nesquikm/the_containers
 
 environment:
