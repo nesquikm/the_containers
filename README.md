@@ -5,6 +5,9 @@
 
 A set of containers that make life easier.
 
+<img src="https://github.com/nesquikm/the_containers/raw/main/images/the_containers.gif" width="350" alt="TheContainers">
+
+
 ## SeparatedRow and SeparatedColumn
 
 This is drop-in replacement for `Row` and `Column` widgets. It allows to add space between children by setting `separatorSize` or `separator` property.
